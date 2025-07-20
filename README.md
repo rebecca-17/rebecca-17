@@ -45,7 +45,7 @@ Git, GitHub, GitLab
 
 ## 📫 How to reach me:
 **🖥️ Email:** rebforman@yahoo.com  
-**👥 LinkedIn:** [linkedin.com/in/rebecca-forman](https://www.linkedin.com/in/rebecca-forman-52621b301/) 
+**👥 LinkedIn:** [https://www.linkedin.com/in/formanr/](https://www.linkedin.com/in/rebecca-forman-52621b301/) 
 
 ## 📊 GitHub Stats: 
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebecca-17&show_icons=true&theme=radical)-->
