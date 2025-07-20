@@ -38,9 +38,9 @@ Git, GitHub, GitLab
 
 ---
 
-**🍓🥧 LED Letter Scroll – Raspberry Pi Animation**  
-*[View Project README](https://github.com/rebecca-17/LED-Letter-Scroll/blob/main/README.md)*  
-- A Raspberry Pi program that displays alphabet letters as they scroll via a user controlled joystick. 
+**🍓🥧 Mini Blue – Raspberry Pi Animation**  
+*[View Project README](https://github.com/rebecca-17/MiniBlue/blob/main/README.md)*  
+- A Raspberry Pi program that involves joystick and accelerometer inputs where Mini Blue (a blue square) collects gems (green squares) displayed on the Raspberry Pi 
 - **Tech Stack:** Raspberry Pi, C
 
 ## 📫 How to reach me:
