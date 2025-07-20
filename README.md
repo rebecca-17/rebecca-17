@@ -3,7 +3,7 @@
 ### 🎓 Rising Sophomore at the University of Delaware, studying Computer Science
 ### 🔭 Currently building upon my AI and Machine Learning skills in preparation for an exciting project with a tech industry leader as a Break Through Tech AI Fellow.
 
-🌐 I love seeing the impacts of computer science in every field from healthcare to education, finance, and more. I am building my skills around programming, machine learning, and data science in order to continue prospering my growth. I have to credit the Break Through Tech AI Program in helping me continue to grow my computer science skills but also help me grow my network, soft skills, and confidence 💪. Feel free to ask me about Break Through Tech—I would love to share about my experience so far! 💬 I am currently seeking an internship where I can grow my computer science skills and learn from industry professionals! 🤝
+🌐 I love seeing the impacts of computer science in every field from healthcare to education, finance, and more. I am building my skills around programming, machine learning, and data science in order to continue prospering my growth. I have to credit the Break Through Tech AI Program in helping me continue to grow my computer science skills but also in guiding me to grow my network, soft skills, and confidence 💪. Feel free to ask me about Break Through Tech—I would love to share about my experience so far! 💬 I am currently seeking an internship where I can grow my computer science skills and learn from industry professionals! 🤝
 
 
 ## 🛠️ Tech Stack
