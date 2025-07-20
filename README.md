@@ -32,20 +32,20 @@ Git, GitHub, GitLab
 *Here are a couple other cool projects I’ve worked on:*
 
 **✏️ Task Tracker – Personalized Task, Assignment, and Event Tracker**  
-*[View Project README](README.md)*  
+*[View Project README](https://github.com/rebecca-17/TaskTracker/blob/main/README.md)*  
 - Developed a simple web application that allows users to track school/work tasks alongside personal events  
 - **Tech Stack:** TypeScript, HTML (WebZ), CSS  
 
 ---
 
 **🍓🥧 LED Letter Scroll – Raspberry Pi Animation**  
-*[View Project README](link-to-your-README)*  
+*[View Project README](https://github.com/rebecca-17/LED-Letter-Scroll/blob/main/README.md)*  
 - A Raspberry Pi program that displays alphabet letters as they scroll via a user controlled joystick. 
 - **Tech Stack:** Raspberry Pi, C
 
 ## 📫 How to reach me:
 **🖥️ Email:** rebforman@yahoo.com  
-**👥 LinkedIn:** [linkedin.com/in/rebecca-forman](www.linkedin.com/in/rebecca-forman) 
+**👥 LinkedIn:** [linkedin.com/in/rebecca-forman](https://www.linkedin.com/in/rebecca-forman-52621b301/) 
 
 ## 📊 GitHub Stats: 
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebecca-17&show_icons=true&theme=radical)-->
