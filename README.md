@@ -32,7 +32,7 @@ Git, GitHub, GitLab
 *Here are a couple other cool projects I’ve worked on:*
 
 **✏️ Task Tracker – Personalized Task, Assignment, and Event Tracker**  
-*[View Project README](link-to-your-README)*  
+*[View Project README](README.md)*  
 - Developed a simple web application that allows users to track school/work tasks alongside personal events  
 - **Tech Stack:** TypeScript, HTML (WebZ), CSS  
 
